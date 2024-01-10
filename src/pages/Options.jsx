@@ -58,6 +58,7 @@ const Merge = styled.div`
   flex-direction: row;
   width: 80%;
   margin: 0 auto;
+  overflow: hidden;
   
   @media (max-width: 1260px) {
     flex-direction: column;
